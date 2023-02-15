@@ -30,8 +30,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-# 📗 Table of Contents
-
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
